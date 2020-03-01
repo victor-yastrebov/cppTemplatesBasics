@@ -1,0 +1,1 @@
+This repo contains some usefull practical examples for working with C++ templates
